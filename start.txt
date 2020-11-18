@@ -1,3 +1,4 @@
 "new entry" 
 this is the new entry
 Testing .gitignore
+testing multiple stashes.
